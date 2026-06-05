@@ -40,6 +40,15 @@ Built with a corporate-level architecture and premium user experience, StudyVers
 - Longest streak records
 - Consistency score
 - Streak rewards
+- <div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRtMDc2d2FtcHBwdTFsbjRoeXNram1oZ2YwcHdiZXRkcXZ1c3JqayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fhAwk4DnqNgw8/giphy.gif" width="500"/>
+
+# 🚀 StudyVerse Premium
+
+### ✨ Enterprise-Grade Student Productivity Platform
+
+</div>
 
 ## ⏳ Advanced Focus Timer
 - Pomodoro Timer
@@ -54,7 +63,16 @@ Built with a corporate-level architecture and premium user experience, StudyVers
 - Monthly Goals
 - Completion Tracking
 - Goal Analytics
+- - <div align="center">
 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVzZzd6NzkzZXNreGRuMnNvZzBoNmtzbGR2cXFvczdoOGtzYzY1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif" width="500"/>
+
+# 🚀 StudyVerse Premium
+
+### ✨ Enterprise-Grade Student Productivity Platform
+
+</div>
+- 
 ## 📚 Subject Management
 - Add Subjects
 - Subject Colors
@@ -66,7 +84,16 @@ Built with a corporate-level architecture and premium user experience, StudyVers
 - Study Notes
 - Resource Links
 - Smart Organization
+- - <div align="center">
 
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXh0NXl1Z3JiYmoxYzR5aXB5d2E4ZDg3b3JncTNtbXBhcHpveDFsZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/UrM0lN9t9hUpZPkhB5/giphy.gif" width="500"/>
+
+# 🚀 StudyVerse Premium
+
+### ✨ Enterprise-Grade Student Productivity Platform
+
+</div>
+-
 ## 🏆 Gamification
 - XP System
 - Levels
@@ -281,13 +308,6 @@ This project is licensed under the MIT License.
 
 BCA Student • Frontend Developer • UI/UX Enthusiast
 
-### Connect With Me
-
-- GitHub: https://github.com/yourusername
-- Portfolio: https://yourportfolio.com
-- LinkedIn: https://linkedin.com/in/yourprofile
-
----
 
 <div align="center">
 
