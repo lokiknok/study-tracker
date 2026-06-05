@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>StudyVerse Pro</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="hero">
+<h1>✨ StudyVerse Pro</h1>
+<p>Gen-Z Smart Study Tracker</p>
+</div>
+
+<div class="grid">
+<div class="card"><h3>Study Hours</h3><input id="hours" type="number"><button onclick="saveHours()">Save</button><p id="hoursOut"></p></div>
+<div class="card"><h3>Daily Goal</h3><input id="goal" type="number"><button onclick="saveGoal()">Set</button></div>
+<div class="card"><h3>Pomodoro</h3><button onclick="startTimer()">25 Min Focus</button><p id="timer"></p></div>
+<div class="card"><h3>XP System</h3><p id="xp"></p></div>
+<div class="card"><h3>Level</h3><p id="level"></p></div>
+<div class="card"><h3>Achievements</h3><p id="badge"></p></div>
+<div class="card"><h3>Motivation</h3><button onclick="quote()">New Quote</button><p id="quote"></p></div>
+<div class="card"><h3>Dark Mode</h3><button onclick="toggleMode()">Toggle</button></div>
+<div class="card"><h3>Subjects</h3><textarea id="subjects"></textarea></div>
+<div class="card"><h3>Notes</h3><textarea id="notes"></textarea></div>
+<div class="card"><h3>Study Streak</h3><p id="streak"></p></div>
+<div class="card"><h3>Leaderboard Demo</h3><p>You • Rank #1</p></div>
+<div class="card"><h3>Weekly Stats</h3><canvas id="chart"></canvas></div>
+<div class="card"><h3>Focus Music</h3><audio controls><source></audio></div>
+<div class="card"><h3>Progress</h3><progress id="progress" max="100" value="0"></progress></div>
+<div class="card"><h3>Calendar</h3><p>Track attendance</p></div>
+<div class="card"><h3>Challenges</h3><p>Study 3 hours today</p></div>
+<div class="card"><h3>Rewards</h3><p>Unlock themes</p></div>
+<div class="card"><h3>Export</h3><button onclick="exportData()">Download</button></div>
+<div class="card"><h3>Analytics</h3><p>Visual insights</p></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
